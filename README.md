@@ -4,7 +4,7 @@ I developed a Simple Text Editor using C++ to enhance my skills as a software en
 
 The purpose of writing this software was to practice implementing basic functionalities of a text editor, such as reading and writing files, editing content, and managing user inputs. Through this project, I aimed to solidify my understanding of C++ syntax and explore its standard library.
 
-You can watch a demo of my software here: [Software Demo Video](http://youtube.link.goes.here)
+You can watch a demo of my software here: [Software Demo Video](https://www.youtube.com/watch?v=vusNO-tkUC0)
 
 # Development Environment
 
